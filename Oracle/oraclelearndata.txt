@@ -1,0 +1,15 @@
+Day 1  → SQL revision + Subqueries
+Day 2  → Window functions
+Day 3  → Indexes + Views
+Day 4  → Normalization (1NF, 2NF, 3NF)
+Day 5  → Transactions + ACID properties  ← added!
+Day 6  → Stored procedures + Functions
+Day 7  → Oracle ERP basics + PL/SQL intro
+Day 8  → PL/SQL variables, loops, conditions
+Day 9  → PL/SQL exceptions, cursors, sequences
+Day 10 → Mock interview!
+Day 11 → Resume + HR questions
+
+
+
+DayTopicDay 1Subqueries — WHERE, FROM, SELECT, IN, EXISTS, ANY, ALLDay 2Window functions — ROW_NUMBER, RANK, DENSE_RANK, LAG, LEADDay 3CASE WHEN + String + Date + Math functions + UNION/MINUSDay 4DDL/DML/DCL/TCL + Constraints + DELETE/DROP/TRUNCATEDay 5Indexes + Views + NormalizationDay 6Transactions + ACID + Sequences + Oracle specificDay 7PL/SQL — block structure, variables, conditions, loopsDay 8PL/SQL — cursors, exceptions, procedures, functionsDay 9PL/SQL — triggers, packages + top interview questionsDay 10Full mock interview — SQL + PL/SQL + HR questions
