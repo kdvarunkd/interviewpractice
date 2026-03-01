@@ -12,4 +12,28 @@ Day 11 → Resume + HR questions
 
 
 
-DayTopicDay 1Subqueries — WHERE, FROM, SELECT, IN, EXISTS, ANY, ALLDay 2Window functions — ROW_NUMBER, RANK, DENSE_RANK, LAG, LEADDay 3CASE WHEN + String + Date + Math functions + UNION/MINUSDay 4DDL/DML/DCL/TCL + Constraints + DELETE/DROP/TRUNCATEDay 5Indexes + Views + NormalizationDay 6Transactions + ACID + Sequences + Oracle specificDay 7PL/SQL — block structure, variables, conditions, loopsDay 8PL/SQL — cursors, exceptions, procedures, functionsDay 9PL/SQL — triggers, packages + top interview questionsDay 10Full mock interview — SQL + PL/SQL + HR questions
+DayTopicDay 1Subqueries — WHERE, FROM, SELECT, IN, EXISTSBasics
+Q1. What is the difference between WHERE and HAVING?
+Q2. What is the difference between DELETE, DROP and TRUNCATE?
+Q3. Write a query to find the second highest salary from employees table
+Q4. What is the difference between DISTINCT and GROUP BY?
+Q5. Write a query to find all employees whose name starts with 'S'
+Aggregate Functions
+Q6. Write a query to find total salary paid per city — but only show cities where total salary is above 50000
+Q7. What is the difference between COUNT(*) and COUNT(column)?
+Q8. Write a query to find the average salary of employees who have a manager
+JOINs
+Q9. What is the difference between INNER JOIN and LEFT JOIN?
+Q10. Write a query to show all customers and their orders — include customers who have no orders
+Q11. What is a SELF JOIN? Write an example query using employees table
+Q12. What is a CROSS JOIN? When would you use it?
+Q13. Write a query to find customers who have never placed an order using JOIN
+Subqueries
+Q14. Write a query to find employees who earn more than the average salary
+Q15. What is a correlated subquery? Give an example
+Q16. Write a query using FROM subquery to show employees with salary above 70000
+Mixed
+Q17. Write a query to show top 3 highest paid employees
+Q18. Write a query to count total orders per customer — show customer name and order count
+Q19. What is the difference between UNION and UNION ALL?
+Q20. Write a query to find duplicate customer names in customers table, ANY, ALLDay 2Window functions — ROW_NUMBER, RANK, DENSE_RANK, LAG, LEADDay 3CASE WHEN + String + Date + Math functions + UNION/MINUSDay 4DDL/DML/DCL/TCL + Constraints + DELETE/DROP/TRUNCATEDay 5Indexes + Views + NormalizationDay 6Transactions + ACID + Sequences + Oracle specificDay 7PL/SQL — block structure, variables, conditions, loopsDay 8PL/SQL — cursors, exceptions, procedures, functionsDay 9PL/SQL — triggers, packages + top interview questionsDay 10Full mock interview — SQL + PL/SQL + HR questions
